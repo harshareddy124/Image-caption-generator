@@ -1,6 +1,3 @@
-# Image-caption-generator
-
-
 
 # Image Caption Generator using CNN & LSTM
 
